@@ -1,5 +1,6 @@
 # MyTelegramBot
-<h1>In this program, I implemented a telegram bot that can process several commands:</h1>
+<h2>In this program, I implemented a telegram bot that can process several commands:</h2>
+
 /start -> start working with the bot
 
 /help -> list of commands
@@ -19,3 +20,5 @@
 /createProfile -> create cadet profile
 
 /cancelProfile -> cancel profile creation
+
+But...so far the /find command works, but it doesn't search the database.
