@@ -21,4 +21,4 @@
 
 /cancelProfile -> cancel profile creation
 
-But...so far the /find command works, but it doesn't search the database.
+
